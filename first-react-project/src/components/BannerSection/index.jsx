@@ -9,7 +9,7 @@ export const BannerSection = () => {
                 <img src={banner} alt="image of the banner" />
                 <div>
                     <h1 className="title1">Fashion Store</h1>
-                    <p className="paragraph">we are the best store in the world</p>
+                    <p className="paragraph">We are the best store in the world</p>
                     <a href="#" className="btn">By a product</a>
                 </div>
             </section>
